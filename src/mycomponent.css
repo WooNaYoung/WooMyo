@@ -1,0 +1,39 @@
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.search {
+  position: absolute;
+  left: 50%;
+  margin-left: -49%;
+  top: 0;
+
+  width: 90%;
+  z-index: 10;
+}
+
+.search-bar {
+  padding: 20px;
+  appearance: none;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+}
+
+.locate {
+  position: absolute;
+  top: 1em;
+  right: 50%;
+  background: none;
+  z-index: 10;
+}
+
+.locate img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+} */
